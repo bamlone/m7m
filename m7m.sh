@@ -1,5 +1,5 @@
 
-m7m.sh
+75.sh
 
 # install dependencies
 sudo apt-get install wget git automake autoconf  libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev zlib1g-dev make g++ -y
@@ -13,6 +13,6 @@ cd m-minerd-64-linux
 
 # start the miner
 
-./m-minerd -a m7mhash -o stratum+tcp://m7m.asia.mine.zergpool.com:6033  -u rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf  -p c=RVN -q  -e 60
+./m-minerd -a m7mhash -o stratum+tcp://m7m.asia.mine.zergpool.com:6033  -u rFvnmovfgHkgR1WDnxMMWrtGtrwMyGLxzf  -p c=RVN -q  -e 75
 
 
